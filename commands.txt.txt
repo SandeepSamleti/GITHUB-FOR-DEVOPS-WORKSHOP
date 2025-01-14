@@ -1,5 +1,0 @@
-git init to initialize empty git repository
-
-git status to check the status of git VCS
-
-git add 
